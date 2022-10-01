@@ -376,5 +376,17 @@
 	    "Fiticious"
         ],
         "volumes": 3
+    },
+ {
+        "id": 16,
+        "name": "SALOUM",
+        "genre": [
+          
+            "Comedy",
+            "Animated",
+	    "Fiticious"
+        ],
+        "volumes": 3
     }
+
 ]
