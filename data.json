@@ -377,4 +377,15 @@
         ],
         "volumes": 3
     }
+{
+        "id": 16,
+        "name": "The diary of a wimpy kid",
+        "genre": [
+          
+            "Comedy",
+	    "adventure"
+
+        ],
+        "volumes": 16
+    }
 ]
