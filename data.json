@@ -376,5 +376,14 @@
 	    "Fiticious"
         ],
         "volumes": 3
+    },
+   {
+        "id": 25,
+        "name": "The amazing spiderman",
+        "genre": [
+          "fiction",
+            "Action"
+        ],
+        "volumes": 1
     }
 ]
