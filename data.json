@@ -377,4 +377,53 @@
         ],
         "volumes": 3
     }
+,{
+	
+        "id": 40,
+        "name": "Maus: A Survivors Tale",
+        "genre": [
+          
+            "Comics",
+		"Novel",
+		"Graphic novel",
+		"Comic book"
+        ],
+        "volumes": 2
+}
+,{
+	
+        "id": 41,
+        "name": "The Incredible Hulk",
+        "genre": [
+          
+            "action",
+		"superhero",
+		"triller"
+        ],
+        "volumes": 1
+}
+,{
+	
+        "id": 42,
+        "name": "Daytripper",
+        "genre": [
+          
+            "Comics", "Graphic novel"
+
+        ],
+        "volumes": 10
+}
+,{
+	
+        "id": 43,
+        "name": "This One Summer",
+        "genre": [
+          
+            "Comics", 
+		"Graphic novel",
+		"fiction"
+
+        ],
+        "volumes": 1
+}	
 ]
