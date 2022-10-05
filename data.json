@@ -376,5 +376,12 @@
 	    "Fiticious"
         ],
         "volumes": 3
-    }
+    },
+{
+		"id": 87,
+		"name": "Nimona",
+		"genre": ["Fantasy Fiction", "Graphic-Novel"],
+		"volumes": 2
+	}
+
 ]
