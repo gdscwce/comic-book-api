@@ -248,6 +248,16 @@
         ],
         "volumes": 23
     },
+  {
+        "id": 100,
+        "name": "Djinn",
+        "genre": [
+            "Fiticious",
+            "Suspense",
+            "Horror"
+        ],
+        "volumes": 1
+    },
     {
         "id": 7,
         "name": "i don't know",
