@@ -376,5 +376,11 @@
 	    "Fiticious"
         ],
         "volumes": 3
-    }
+    },
+    {
+	"id": 16,
+	"name": "Watchmen",
+	"genre": ["Science Fiction", "Thriller"],
+	"volumes": 12
+    },
 ]
