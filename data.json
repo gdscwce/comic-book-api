@@ -384,5 +384,11 @@
 		"erotic"
         ],
         "volumes": 28
-    }
+    },
+{
+        "id":18,
+        "name":"Amar Chitra Katha",
+        "genre":["Indian","Comedy-drama","Historic"],
+        "volumes":2
+        },
 ]
