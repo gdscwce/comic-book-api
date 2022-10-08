@@ -386,3 +386,14 @@
         "volumes": 28
     }
 ]
+
+    },
+ {
+        "id": 17,
+        "name": "Batman: The Killing Joke",
+        "genre": [
+		"Action"
+		"Drama"
+        ],
+        "volumes": 1
+    }
