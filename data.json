@@ -1,162 +1,4 @@
 [
-	{
-		"id": 1,
-		"name": "Kiteretsu Daihyakka",
-		"genre": ["Science Fiction", "Comedy-drama"],
-		"volumes": 6
-	},
-	{
-		"id": 2,
-		"name": "Doreamon",
-		"genre": ["Futuristic", "Comedy-drama"],
-		"volumes": 8
-	},
-	{
-		"id": 3,
-		"name": "Ninja hatori",
-		"genre": ["TP", "Comedy-drama"],
-		"volumes": 2
-	},
-	{
-		"id": 4,
-		"name": "Shinchan",
-		"genre": ["Cute", "Comedy-drama"],
-		"volumes": 88
-	},
-	{
-		"id": 5,
-		"name": "i don't know",
-		"genre": ["Science Fiction", "Comedy-drama"],
-		"volumes": 6
-	},
-    {
-        "id":1,
-        "name":"Kiteretsu Daihyakka",
-        "genre":["Science Fiction","Comedy-drama"],
-        "volumes":6
-        },
-    {
-        "id":2,
-        "name":"A.X.E.: Avengers (2022) #1",
-        "genre":["Science Fiction","Superhero"],
-        "volumes":1
-        },
-    
-     {
-        "id":2,
-        "name":"Doreamon",
-        "genre":["Futuristic","Comedy-drama"],
-        "volumes":8
-      },
-     {
-        "id":3,
-        "name":"Ninja hatori",
-        "genre":["TP","Comedy-drama"],
-        "volumes":2
-        },
-     {
-        "id":4,
-        "name":"Shinchan",
-        "genre":["Cute","Comedy-drama"],
-        "volumes":88
-        },
-        {
-        "id":5,
-          "name":"i don't know",
-        "genre":["Science Fiction","Comedy-drama"],
-        "volumes":6
-        },
-          {
-        "id":6,
-        "name":"Marvel Encyclopedia",
-        "genre":["Encyclopedia","Reference Work"],
-        "volumes":15
-        }
-    {
-        "id":5,
-        "name":"Chacha Chowdhury",
-        "genre":["Comedy-drama","Superhero"],
-        "volumes":10,
-        "artist":"PranKumar Sharma"
-        },
-    {
-        "id":6,
-        "name":"Bandbudh Aur Budbak",
-        "genre":["Indian","Comedy-drama"],
-        "volumes":2
-        },
-     {
-        "id":9,
-        "name":"Y The Last Man ",
-        "genre":["Cute","Comedy-drama"],
-        "volumes":101
-        },
-    {
-        "id":8,
-        "name":"Shang-Chi Origin",
-        "genre":["Futuristic","Comedy-drama","Action"],
-        "volumes":3
-    },
-
-
-	   {
-		"id": 8,
-		"name": "Spy Family",
-		"genre": ["Mystry", "Suspence"],
-		"volumes": 6
-	},    
-
-	{
-		"id": 6,
-		"name": "dpraemon",
-		"genre": ["Science Fiction", "Comedy-drama"],
-		"volumes": 9
-	},
-	{
-		"id": 7,
-		"name": "SHE-HULK",
-		"genre": ["Science Fiction", "Comedy-drama","Fantasy",""],
-		"volumes": 4
-	},
-	{
-		"id": 9,
-		"name": "dell comics",
-		"genre": ["consist tom and jerry ", "Comedy-drama"],
-		"volumes": 13
-	},
-	{
-		"id": 7,
-		"name": "SHE-HULK",
-		"genre": ["Science Fiction", "Comedy-drama","Superhero","Fantasy"],
-		"volumes": 4
-	},
-
-	{
-		"id": 7,
-		"name": "Doom Patrol",
-		"genre": ["Comedy drama", "Futuristic"],
-		"volumes": 34
-	},
-    {
-		"name": "Overstreet Comic Book ",
-		"genre": ["Serious", "Serious-drama"],
-		"volumes": 51
-	},
-    {
-		"id": 8,
-		"name": "Maus",
-		"genre": ["history", "fiction", "autobiography", "biography"],
-		"volumes": 2
-	},
-
-{
-		"id": 7,
-		"name": "Wings of Fire",
-		"genre": ["Autobiography"],
-		"volumes": 1
-	},
-
-
     {
         "id": 1,
         "name": "Kiteretsu Daihyakka",
@@ -195,6 +37,238 @@
     },
     {
         "id": 5,
+        "name": "i don't know",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 6,
+        "name": "Kiteretsu Daihyakka",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 7,
+        "name": "A.X.E.: Avengers (2022) #1",
+        "genre": [
+            "Science Fiction",
+            "Superhero"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 8,
+        "name": "Doreamon",
+        "genre": [
+            "Futuristic",
+            "Comedy-drama"
+        ],
+        "volumes": 8
+    },
+    {
+        "id": 9,
+        "name": "Ninja hatori",
+        "genre": [
+            "TP",
+            "Comedy-drama"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 10,
+        "name": "Shinchan",
+        "genre": [
+            "Cute",
+            "Comedy-drama"
+        ],
+        "volumes": 88
+    },
+    {
+        "id": 11,
+        "name": "i don't know",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 12,
+        "name": "Marvel Encyclopedia",
+        "genre": [
+            "Encyclopedia",
+            "Reference Work"
+        ],
+        "volumes": 15
+    }
+    {
+        "id": 13,
+        "name": "Chacha Chowdhury",
+        "genre": [
+            "Comedy-drama",
+            "Superhero"
+        ],
+        "volumes": 10,
+        "artist": "PranKumar Sharma"
+    },
+    {
+        "id": 14,
+        "name": "Bandbudh Aur Budbak",
+        "genre": [
+            "Indian",
+            "Comedy-drama"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 15,
+        "name": "Y The Last Man ",
+        "genre": [
+            "Cute",
+            "Comedy-drama"
+        ],
+        "volumes": 101
+    },
+    {
+        "id": 16,
+        "name": "Shang-Chi Origin",
+        "genre": [
+            "Futuristic",
+            "Comedy-drama",
+            "Action"
+        ],
+        "volumes": 3
+    },
+    {
+        "id": 17,
+        "name": "Spy Family",
+        "genre": [
+            "Mystry",
+            "Suspence"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 18,
+        "name": "dpraemon",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 9
+    },
+    {
+        "id": 19,
+        "name": "SHE-HULK",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama",
+            "Fantasy",
+            ""
+        ],
+        "volumes": 4
+    },
+    {
+        "id": 20,
+        "name": "dell comics",
+        "genre": [
+            "consist tom and jerry ",
+            "Comedy-drama"
+        ],
+        "volumes": 13
+    },
+    {
+        "id": 21,
+        "name": "SHE-HULK",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama",
+            "Superhero",
+            "Fantasy"
+        ],
+        "volumes": 4
+    },
+    {
+        "id": 22,
+        "name": "Doom Patrol",
+        "genre": [
+            "Comedy drama",
+            "Futuristic"
+        ],
+        "volumes": 34
+    },
+    {
+        "id": 23,
+        "name": "Overstreet Comic Book ",
+        "genre": [
+            "Serious",
+            "Serious-drama"
+        ],
+        "volumes": 51
+    },
+    {
+        "id": 24,
+        "name": "Maus",
+        "genre": [
+            "history",
+            "fiction",
+            "autobiography",
+            "biography"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 25,
+        "name": "Wings of Fire",
+        "genre": [
+            "Autobiography"
+        ],
+        "volumes": 1
+    },
+    {
+        "id": 26,
+        "name": "Kiteretsu Daihyakka",
+        "genre": [
+            "Science Fiction",
+            "Comedy-drama"
+        ],
+        "volumes": 6
+    },
+    {
+        "id": 27,
+        "name": "Doreamon",
+        "genre": [
+            "Futuristic",
+            "Comedy-drama"
+        ],
+        "volumes": 8
+    },
+    {
+        "id": 28,
+        "name": "Ninja hatori",
+        "genre": [
+            "TP",
+            "Comedy-drama"
+        ],
+        "volumes": 2
+    },
+    {
+        "id": 29,
+        "name": "Shinchan",
+        "genre": [
+            "Cute",
+            "Comedy-drama"
+        ],
+        "volumes": 88
+    },
+    {
+        "id": 30,
         "name": "Ultimate Spider Man",
         "genre": [
             "Action",
@@ -203,7 +277,7 @@
         "volumes": 40
     },
     {
-        "id": 6,
+        "id": 31,
         "name": "She-Hulk",
         "genre": [
             "Action",
@@ -213,7 +287,7 @@
         "volumes": 51
     },
     {
-        "id": 7,
+        "id": 32,
         "name": "i don't know",
         "genre": [
             "Science Fiction",
@@ -222,7 +296,7 @@
         "volumes": 6
     },
     {
-        "id": 8,
+        "id": 33,
         "name": "dpraemon",
         "genre": [
             "Science Fiction",
@@ -231,7 +305,7 @@
         "volumes": 9
     },
     {
-        "id": 9,
+        "id": 34,
         "name": "Chota bheem",
         "genre": [
             " animated comedy adventure television series"
@@ -239,7 +313,7 @@
         "volumes": 1
     },
     {
-        "id": 10,
+        "id": 35,
         "name": "Deadpool Classic",
         "genre": [
             "Action",
@@ -249,7 +323,7 @@
         "volumes": 23
     },
     {
-        "id": 7,
+        "id": 36,
         "name": "i don't know",
         "genre": [
             "Science Fiction",
@@ -258,7 +332,7 @@
         "volumes": 6
     },
     {
-        "id": 8,
+        "id": 37,
         "name": "dpraemon",
         "genre": [
             "Science Fiction",
@@ -267,7 +341,7 @@
         "volumes": 9
     },
     {
-        "id": 9,
+        "id": 38,
         "name": "Chota bheem",
         "genre": [
             " animated comedy adventure television series"
@@ -275,7 +349,7 @@
         "volumes": 1
     },
     {
-        "id": 10,
+        "id": 39,
         "name": "Chacha Chaudhary and Sabu's Shoes",
         "genre": [
             " animated comedy  series"
@@ -283,7 +357,7 @@
         "volumes": 1
     },
     {
-        "id": 7,
+        "id": 40,
         "name": "i don't know",
         "genre": [
             "Science Fiction",
@@ -292,7 +366,7 @@
         "volumes": 6
     },
     {
-        "id": 6,
+        "id": 41,
         "name": "dpraemon",
         "genre": [
             "Science Fiction",
@@ -301,7 +375,7 @@
         "volumes": 9
     },
     {
-        "id": 7,
+        "id": 42,
         "name": "Chota bheem",
         "genre": [
             " animated comedy adventure television series"
@@ -309,7 +383,7 @@
         "volumes": 1
     },
     {
-        "id": 8,
+        "id": 43,
         "name": "Deadpool Classic",
         "genre": [
             "Action",
@@ -319,7 +393,7 @@
         "volumes": 23
     },
     {
-        "id": 9,
+        "id": 44,
         "name": "Chainsaw Man",
         "genre": [
             "Gore,fighting,action"
@@ -327,7 +401,7 @@
         "volumes": 2
     },
     {
-        "id": 11,
+        "id": 44,
         "name": "Deadpool Classic",
         "genre": [
             "Action",
@@ -336,77 +410,121 @@
         ],
         "volumes": 23
     },
-	 {
-        "id": 12,
+    {
+        "id": 45,
         "name": "Chacha Chaudhary",
         "genre": [
-          
             "Comedy",
             "Drama"
         ],
         "volumes": 600
     },
-	 {
-        "id": 13,
+    {
+        "id": 46,
         "name": "The Unbeatable Squirrel Girl",
         "genre": [
-          
             "Comedy",
             "Drama"
         ],
         "volumes": 2
     },
-	 {
-        "id": 14,
+    {
+        "id": 47,
         "name": "X-Factor",
         "genre": [
-          
             "Comedy",
             "Drama"
         ],
         "volumes": 5
     },
- {
-        "id": 15,
+    {
+        "id": 48,
         "name": "Incredibles",
         "genre": [
-          
             "Comedy",
             "Animated",
-	    "Fiticious"
+            "Fiticious"
         ],
         "volumes": 3
     },
-	 {
-		"id": 16,
-		"name": "Savita Bhabhi",
-		"genre": [
-			"erotic"
-		],
-		"volumes": 28
-	    },
-	 {
-		"id": 17,
-		"name": "Nehal Rocks",
-		"genre": [
-			"comedy"
-		],
-		"volumes": 28
-	    },
- {
-		"id": 18,
-		"name": "Savita Bhabhi",
-		"genre": [
-			"erotic"
-		],
-		"volumes": 28
-	    },
-	 {
-		"id": 19,
-		"name": "A book",
-		"genre": [
-			"comedy"
-		],
-		"volumes": 28
-	    }
+    {
+        "id": 49,
+        "name": "Savita Bhabhi",
+        "genre": [
+            "erotic"
+        ],
+        "volumes": 28
+    },
+    {
+        "id": 50,
+        "name": "Nehal Rocks",
+        "genre": [
+            "comedy"
+        ],
+        "volumes": 28
+    },
+    {
+        "id": 51,
+        "name": "Savita Bhabhi",
+        "genre": [
+            "erotic"
+        ],
+        "volumes": 28
+    },
+    {
+        "id": 52,
+        "name": "A book",
+        "genre": [
+            "comedy"
+        ],
+        "volumes": 28
+    },
+    {
+        "id": 53,
+        "name": "Vagabond",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Award Winning"
+        ],
+        "volumes": 28
+    },
+    {
+        "id": 54,
+        "name": "Monster",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Award Winning"
+        ],
+        "volumes": 18
+    },
+    {
+        "id": 55,
+        "name": "Fullmetal Alchemist",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Award Winning"
+        ],
+        "volumes": 27
+    },
+    {
+        "id": 56,
+        "name": "Slam Dunk",
+        "genre": [
+            "Sports",
+            "Award Winning"
+        ],
+        "volumes": 31
+    },
+    {
+        "id": 57,
+        "name": "Oyasumi Punpun",
+        "genre": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "volumes": 13
+    },
 ]
