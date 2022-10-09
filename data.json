@@ -408,5 +408,12 @@
 			"comedy"
 		],
 		"volumes": 28
-	    }
+	    },
+
+ {
+        "id":2,
+        "name":"Doreamon",
+        "genre":["Futuristic","Comedy-drama"],
+        "volumes":8
+      },
 ]
